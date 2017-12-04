@@ -1,0 +1,27 @@
+<kinects>
+    <id>
+        <id>0</id>
+        <anchorPoint_x>0.000000000</anchorPoint_x>
+        <anchorPoint_y>400.000000000</anchorPoint_y>
+    </id>
+    <id>
+        <id>1</id>
+        <anchorPoint_x>99.000000000</anchorPoint_x>
+        <anchorPoint_y>429.000000000</anchorPoint_y>
+    </id>
+    <id>
+        <id>2</id>
+        <anchorPoint_x>95.000000000</anchorPoint_x>
+        <anchorPoint_y>194.000000000</anchorPoint_y>
+    </id>
+    <id>
+        <id>3</id>
+        <anchorPoint_x>386.000000000</anchorPoint_x>
+        <anchorPoint_y>207.000000000</anchorPoint_y>
+    </id>
+    <id>
+        <id>4</id>
+        <anchorPoint_x>395.000000000</anchorPoint_x>
+        <anchorPoint_y>428.000000000</anchorPoint_y>
+    </id>
+</kinects>
